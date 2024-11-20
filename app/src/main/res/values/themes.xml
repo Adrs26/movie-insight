@@ -1,0 +1,13 @@
+<resources>
+    <style name="Base.Theme.MovieInsight" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorAccent">@color/white</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="android:statusBarColor">@color/base_color</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Theme.MovieInsight" parent="Base.Theme.MovieInsight" />
+</resources>
